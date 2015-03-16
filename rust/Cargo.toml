@@ -1,0 +1,9 @@
+[package]
+
+name = "rust_cheatsheet"
+version = "0.0.1"
+authors = ["Nick DiRienzo <me@nickdirienzo.com>"]
+
+[[bin]]
+
+name = "rust_cheatsheet"
